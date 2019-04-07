@@ -6,6 +6,6 @@
 
 <script>
 export default {
-  name: 'videos'
+  name: 'escode-videos'
 }
 </script>

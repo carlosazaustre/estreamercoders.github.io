@@ -6,6 +6,6 @@
 
 <script>
 export default {
-  name: 'about'
+  name: 'escode-about'
 }
 </script>

@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'join-us'
+  name: 'escode-joinus'
 }
 </script>
 

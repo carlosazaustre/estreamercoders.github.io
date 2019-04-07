@@ -1,8 +1,18 @@
 <template>
   <div>
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
     <nuxt />
   </div>
 </template>
+
+<script>
+import 'nes.css/css/nes.css';
+
+export default {
+
+}
+</script>
+
 
 <style>
 html {
